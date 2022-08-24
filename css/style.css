@@ -1,0 +1,27 @@
+*{
+    margin: opx;
+    padding: opx;
+    box-sizing: border-box;
+}
+#a{
+    background-color: green;
+    color: aliceblue;
+    text-align: center;
+}
+#b{
+    height: 1000px;
+    width:100%
+}
+#our{
+    height: 30px;
+    width: 30%;
+    
+    background-color: green
+    
+}
+#c{
+text-align: center;
+position: relative;
+top: 5px;
+}
+
